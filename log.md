@@ -9,12 +9,22 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 1:  1 January, 2017 (Example 1)
-##### (delete me or comment me out)
+### Day 1:  1 January, 2017 
 
-**Today's Progress**: personal Calendar app for 100 days of code. learn materializecss. perfection on ruby on rails
 
-**Thoughts:** materializecss it's cool. but i have a problem with sizing text.
+**Today's Progress**: personal Calendar app for 100 days of code. learn materializecss. Improvement on ruby on rails
+
+**Thoughts:** materializecss it's cool. but I have a problem with sizing text.
 
 **Link to work:** [calendar100days](http://100days.fertec.fr)
 **Link to github work:** [GitHubRepo](https://github.com/cyrilferte/calendar100)
+
+### Day 2:  2 January, 2017 
+
+**Today's Title**: First API in rails and Json (GORAILS)
+**Today's Progress**: Learn versioning in ruby on rails, learn how a api works. 
+
+**Thoughts:** Json are cool for api It's my new glue to fix different language together.
+
+**Link to work:** [thanks Gorails, thanks Chris Oliver](https://gorails.com/episodes/our-first-api)
+**Link to github work:** [GitHubRepo](https://github.com/cyrilferte/weather)
