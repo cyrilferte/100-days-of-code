@@ -28,3 +28,10 @@
 
 **Link to work:** [thanks Gorails, thanks Chris Oliver](https://gorails.com/episodes/our-first-api)
 **Link to github work:** [GitHubRepo](https://github.com/cyrilferte/weather)
+
+### Day 3:  3 January, 2017 
+
+**Today's Title**: Ruby exercices
+**Today's Progress**: learn more about ruby import and export data. 
+
+**Thoughts:** Json are everywhere !
