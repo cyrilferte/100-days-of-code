@@ -34,4 +34,4 @@
 **Today's Title**: Ruby exercices
 **Today's Progress**: learn more about ruby import and export data. 
 
-**Thoughts:** Json are everywhere !!
+**Thoughts:** Json are everywhere !!!
