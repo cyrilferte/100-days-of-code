@@ -31,7 +31,47 @@
 
 ### Day 3:  3 January, 2017 
 
-**Today's Title**: Ruby exercices
+**Today's Title**: React first app 
+**Today's Progress**: trasform a html to react 
+
+**Thoughts:** react are just for specific app not all !
+
+**Link to work:** [udemy course](https://www.udemy.com/reactjs-and-flux-learn-by-building-10-projects)
+### Day 4:  4 January, 2017 
+
+**Today's Title**: Ruby exercices + rails exercices
+**Today's Progress**: learn more about one line ruby. 
+
+**Thoughts:** I love .each !
+
+**Link to github work:** [GitHubRepo](https://github.com/cyrilferte/ruby-jobs)
+
+### Day 5:  5 January, 2017 
+
+**Today's Title**: Ruby exercices + rails exercices
 **Today's Progress**: learn more about ruby import and export data. 
 
-**Thoughts:** Json are everywhere !!!
+**Thoughts:** I'm the best of CRUD !
+
+**Link to work:** [honestica test](https://honestica-level5-cyril.herokuapp.com/)
+**Link to github work:** [GitHubRepo](https://github.com/cyrilferte/honestica_level5)
+
+### Day 6:  6 January, 2017 
+
+**Today's Title**: Kaamelott Javascript app part 1 import image
+**Today's Progress**: learn more about JS structure. 
+
+**Thoughts:** Js are difficult !!
+
+**Link to work:** [codepen link](http://codepen.io/ArnHack/details/EZjVQx/)
+**Link to github work:** [GitHubRepo](https://github.com/cyrilferte/kaamelott_generate)
+
+### Day 7:  7 January, 2017 
+
+**Today's Title**: React Second app Github view
+**Today's Progress**: learn more about React app structure. 
+
+**Thoughts:** react are long to code ! but powerfull
+
+
+**Link to github work:** [GitHubRepo](https://github.com/cyrilferte/github_view_react)
