@@ -75,3 +75,13 @@
 
 
 **Link to github work:** [GitHubRepo](https://github.com/cyrilferte/github_view_react)
+
+### Day 8:  8 January, 2017 
+
+**Today's Title**: First fb bot messenger
+**Today's Progress**: learn fb seting. 
+
+**Thoughts:** python look like ruby and js
+
+**Link to work:** [fb page](https://www.facebook.com/reponse2017/)
+**Link to github work:** [GitHubRepo](https://github.com/cyrilferte/kaamelott_generate)
